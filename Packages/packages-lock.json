@@ -1,5 +1,6 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "com.unity.2d.animation": {
       "version": "9.1.1",
       "depth": 1,
@@ -104,6 +105,8 @@
       },
       "url": "https://packages.unity.com"
     },
+=======
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
     "com.unity.collab-proxy": {
       "version": "2.5.1",
       "depth": 0,
@@ -111,6 +114,7 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.collections": {
       "version": "1.2.4",
       "depth": 2,
@@ -123,11 +127,16 @@
     },
     "com.unity.ext.nunit": {
       "version": "1.0.6",
+=======
+    "com.unity.editorcoroutines": {
+      "version": "1.0.0",
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       "depth": 1,
       "source": "registry",
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.feature.2d": {
       "version": "2.0.1",
       "depth": 0,
@@ -141,11 +150,36 @@
         "com.unity.2d.tilemap": "1.0.0",
         "com.unity.2d.tilemap.extras": "3.1.2",
         "com.unity.2d.aseprite": "1.1.4"
+=======
+    "com.unity.ext.nunit": {
+      "version": "1.0.6",
+      "depth": 2,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.feature.development": {
+      "version": "1.0.1",
+      "depth": 0,
+      "source": "builtin",
+      "dependencies": {
+        "com.unity.ide.visualstudio": "2.0.22",
+        "com.unity.ide.rider": "3.0.28",
+        "com.unity.ide.vscode": "1.2.5",
+        "com.unity.editorcoroutines": "1.0.0",
+        "com.unity.performance.profile-analyzer": "1.2.2",
+        "com.unity.test-framework": "1.1.33",
+        "com.unity.testtools.codecoverage": "1.2.5"
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       }
     },
     "com.unity.ide.rider": {
       "version": "3.0.28",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6"
@@ -154,15 +188,38 @@
     },
     "com.unity.ide.visualstudio": {
       "version": "2.0.22",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       "source": "registry",
       "dependencies": {
         "com.unity.test-framework": "1.1.9"
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
     "com.unity.mathematics": {
       "version": "1.2.6",
+=======
+    "com.unity.ide.vscode": {
+      "version": "1.2.5",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.performance.profile-analyzer": {
+      "version": "1.2.2",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.settings-manager": {
+      "version": "2.0.1",
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       "depth": 2,
       "source": "registry",
       "dependencies": {},
@@ -170,7 +227,11 @@
     },
     "com.unity.test-framework": {
       "version": "1.1.33",
+<<<<<<< HEAD
       "depth": 0,
+=======
+      "depth": 1,
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
       "source": "registry",
       "dependencies": {
         "com.unity.ext.nunit": "1.0.6",
@@ -179,6 +240,19 @@
       },
       "url": "https://packages.unity.com"
     },
+<<<<<<< HEAD
+=======
+    "com.unity.testtools.codecoverage": {
+      "version": "1.2.5",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.test-framework": "1.0.16",
+        "com.unity.settings-manager": "1.0.1"
+      },
+      "url": "https://packages.unity.com"
+    },
+>>>>>>> 3eec417c3f764572f2ea34b69566bd38f676dfea
     "com.unity.textmeshpro": {
       "version": "3.0.6",
       "depth": 0,
